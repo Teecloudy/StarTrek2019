@@ -677,7 +677,7 @@ def post_comment(articleID):
 
 
 # ===============================================================================
-# donation
+# donationn
 # ===============================================================================
 @app.route('/donation')
 def donaton():
@@ -739,7 +739,7 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0',port=8001, debug=False)
 
 
-
+#Still need more understanding before making adjustments
 
 
 
