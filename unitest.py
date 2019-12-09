@@ -1,7 +1,5 @@
 from datetime import datetime
 
-
-
 '''
 current time:
 
@@ -9,13 +7,13 @@ print(str(datetime.now())[:-7])
 '''
 
 '''
-str = 'Fuck'
+str = 'Ashly'
 for word in str.split():
     print(word)
 '''
 
 '''
-email = '732199992@qq.com'
+email = 'teecloudy@qq.com'
 pre = email[:email.rfind('@')]
 display = pre[:len(pre)//2]
 suf = email[email.rfind('@')+1:]
@@ -25,9 +23,6 @@ for i in range(len(pre[len(pre)//2:])):
 
 print(display + suf)
 '''
-
-
-
 
 # def mydecor_milk(func):
 #     def my_method():
@@ -65,12 +60,6 @@ print(display + suf)
 #     except StopIteration:
 #         print('gay, chao chu fan wei le')
 #         sys.exit()
-
-
-
-
-
-
 
 
 
